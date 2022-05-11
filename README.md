@@ -16,6 +16,7 @@ I am Full Stack Web Developer in Lebanon with a Bachelor’s Degree and 3+ years
 Languages: JavaScript (AJAX, JSON), HTML, CSS, SQL, MYSQL, PHP, C++, C#, Python <br>
 Frameworks & Libraries: jQuery, Bootstrap, Laravel <br>
 Tools:  MongoDB, MySQL, Sqlite, GitHub, VSCode, Photoshop
+CMS: WordPress
 
 ✨ Some fun things about me:
 * I love hiking
