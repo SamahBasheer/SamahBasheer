@@ -27,7 +27,7 @@ CMS: WordPress
 ## ⛓ My Links
 * LinkedIn: https://www.linkedin.com/in/samah-basheer-486a01226/
 
-✉️ Get in contact with me 
+## ✉️ Get in contact with me 
 * Email: samahsharafbasheer@gmail.com
 
-<img align="left" alt="Samah Github Stats" src="https://github-readme-stats.vercel.app/api?username=samah-basheer&count_private=true" />
+<img align="left" alt="Samah Github Stats" src="https://github-readme-stats.vercel.app/api?username=samah-basheer&count_private=true&hide_border=true" />
