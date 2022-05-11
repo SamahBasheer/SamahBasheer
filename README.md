@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-     src='./code.jpg' 
+     src='./technology world.jpg' 
      alt='code'
      width='100%'
      style='margin: 0 auto'
