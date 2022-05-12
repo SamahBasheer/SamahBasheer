@@ -15,7 +15,7 @@ I am Full Stack Web Developer in Lebanon with a Bachelor’s Degree and 3 years 
 
 Languages: JavaScript (AJAX, JSON), HTML, CSS, SQL, MYSQL, PHP, C++, C#, Python <br>
 Frameworks & Libraries: jQuery, Bootstrap, Laravel <br>
-Tools:  MongoDB, MySQL, Sqlite, GitHub, VSCode, Photoshop
+Tools:  MySQL, Sqlite, GitHub, VSCode, Photoshop
 CMS: WordPress
 
 ✨ Some fun things about me:
@@ -26,6 +26,9 @@ CMS: WordPress
 
 ## ⛓ My Links
 * LinkedIn: https://www.linkedin.com/in/samah-basheer-486a01226/
+<p align="left">
+<a href="https://linkedin.com/in/samah basheer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samah basheer" height="30" width="40" /></a>
+</p>
 
 ## ✉️ Get in contact with me 
 * Email: samahsharafbasheer@gmail.com
