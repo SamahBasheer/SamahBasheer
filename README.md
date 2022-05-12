@@ -9,7 +9,7 @@
 
 ## Hello World, I'm Samah! 👋 Nice to virtually meet you! 🙂
 
-I am Full Stack Web Developer in Lebanon with a Bachelor’s Degree and 3+ years professional experience in Web Development. I am a naturally curious person which makes me want to always learn new things, a problem-solver who questions everything, and a hard worker who doesn't take life too seriously and enjoys the little things.
+I am Full Stack Web Developer in Lebanon with a Bachelor’s Degree and 3 years experience in Web Development. I am a naturally curious person which makes me want to always learn new things, a problem-solver who questions everything, and a hard worker who doesn't take life too seriously and enjoys the little things.
 
 ## 💻 My Technical Stack<br>
 
